@@ -9,3 +9,4 @@ Setelah mengetahui port yang digunakan maka sekarang kita buka Aplikasi Arduino 
 1. Serial Monitor
    
    Program/alat untuk mengirim dan menerima data antara komputer dan perangkat lain melalui komunikasi serial, biasanya menggunakan **PORT COM**
+   ![alt text](https://github.com/ideutama/BelajarIOT/blob/main/ESP32/Serial%20Monitor.png?raw=true)
